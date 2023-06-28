@@ -1,0 +1,16 @@
+C:\Class\COP2360\lotteryNumbers\lotteryNumbers\bin\Debug\netcoreapp3.1\lotteryNumbers.exe
+C:\Class\COP2360\lotteryNumbers\lotteryNumbers\bin\Debug\netcoreapp3.1\lotteryNumbers.deps.json
+C:\Class\COP2360\lotteryNumbers\lotteryNumbers\bin\Debug\netcoreapp3.1\lotteryNumbers.runtimeconfig.json
+C:\Class\COP2360\lotteryNumbers\lotteryNumbers\bin\Debug\netcoreapp3.1\lotteryNumbers.runtimeconfig.dev.json
+C:\Class\COP2360\lotteryNumbers\lotteryNumbers\bin\Debug\netcoreapp3.1\lotteryNumbers.dll
+C:\Class\COP2360\lotteryNumbers\lotteryNumbers\bin\Debug\netcoreapp3.1\lotteryNumbers.pdb
+C:\Class\COP2360\lotteryNumbers\lotteryNumbers\obj\Debug\netcoreapp3.1\lotteryNumbers.csproj.AssemblyReference.cache
+C:\Class\COP2360\lotteryNumbers\lotteryNumbers\obj\Debug\netcoreapp3.1\lotteryNumbers.Lottery.resources
+C:\Class\COP2360\lotteryNumbers\lotteryNumbers\obj\Debug\netcoreapp3.1\lotteryNumbers.csproj.GenerateResource.cache
+C:\Class\COP2360\lotteryNumbers\lotteryNumbers\obj\Debug\netcoreapp3.1\lotteryNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Class\COP2360\lotteryNumbers\lotteryNumbers\obj\Debug\netcoreapp3.1\lotteryNumbers.AssemblyInfoInputs.cache
+C:\Class\COP2360\lotteryNumbers\lotteryNumbers\obj\Debug\netcoreapp3.1\lotteryNumbers.AssemblyInfo.cs
+C:\Class\COP2360\lotteryNumbers\lotteryNumbers\obj\Debug\netcoreapp3.1\lotteryNumbers.csproj.CoreCompileInputs.cache
+C:\Class\COP2360\lotteryNumbers\lotteryNumbers\obj\Debug\netcoreapp3.1\lotteryNumbers.dll
+C:\Class\COP2360\lotteryNumbers\lotteryNumbers\obj\Debug\netcoreapp3.1\lotteryNumbers.pdb
+C:\Class\COP2360\lotteryNumbers\lotteryNumbers\obj\Debug\netcoreapp3.1\lotteryNumbers.genruntimeconfig.cache
